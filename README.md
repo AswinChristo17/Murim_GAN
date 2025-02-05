@@ -3,7 +3,7 @@
 ## Overview
 MurimGAN is a project aimed at generating unique anime characters inspired by cultivation and Murim themes using Generative Adversarial Networks (GANs). The model is built on **StyleGAN**, a state-of-the-art architecture for generating high-quality, realistic images. This project explores the fusion of traditional anime aesthetics with the powerful generative capabilities of GANs to create dynamic, visually stunning characters.
 
-## Key Features
+## Key Features!
 - **Cultivation & Murim-Inspired Designs**: Generates anime characters with visual elements drawn from cultivation and Murim (martial arts) stories.
 - **StyleGAN Architecture**: Utilizes StyleGAN to generate high-quality, diverse character designs.
 - **Custom Dataset**: A curated dataset focused on cultivation and Murim-inspired anime aesthetics.
@@ -11,7 +11,7 @@ MurimGAN is a project aimed at generating unique anime characters inspired by cu
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites!
 Ensure you have the following libraries installed:
 
 - Python 3.8 or higher
